@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>SR.ModRimWorld.NierBgm</packageId>
+    <name>[SR]Nier Bgm</name>
+    <author>Shadowrabbit</author>
+    <supportedVersions>
+        <li>1.2</li>
+    </supportedVersions>
+    <loadAfter>
+        <li>Ludeon.RimWorld</li>
+        <li>Ludeon.RimWorld.Royalty</li>
+    </loadAfter>
+    <description>From NieR:Automata Original Soundtrack "還ラナイ声/ギター"</description>
+</ModMetaData>
